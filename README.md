@@ -28,7 +28,7 @@ If you cannot provide a valid website for your company, your PR will not be acce
 
 ## A - C
 - [Aakar e Solution] (http://www.aakaresolution.com.np/)
- | Ranipauwa, Pokhara -11 | Based on the requirements of the clients, we develop desktop, web-based or mobile applications using modern tools and techniques. |  977 61 540120
+ | Ranipauwa, Pokhara -11 | Based on the requirements of the clients, we develop desktop, web-based or mobile applications using modern tools and techniques. |  977 61 540120 ,  info@aakaresolution.com.np
 
 - [Aarambha](https://www.aarambhait.com/service) |Gairapatan Road, Pokhara | Technology and Business Management company. We design, develop, support and promote our own ICT and business management application software using the latest technology currently available in the market and also some other domains through our alliances’​ coordination.| 
 9856007007
